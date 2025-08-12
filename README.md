@@ -116,8 +116,8 @@
 <!-- Final Message -->
 <p align="center" style="font-size: 1.2em; margin-top: 2em;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <br>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+  <em><b>I love connecting with different people</b> so if you want you can add me on discord <b>ytz_solar</b></em>
 </p>
 
 <!-- Footer -->
-<p align="right" style="margin-top: 2em;">Created with 🧡 by XxSolarXx</p>
+<p align="right" style="margin-top: 2em;">Created with 🧡 by XxSolarXx also credits to supun</p>
