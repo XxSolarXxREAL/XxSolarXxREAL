@@ -1,114 +1,123 @@
-![logo](supun-new.png)
+<!-- Improved and styled version of your README -->
+
+<!-- Logo -->
+<p align="center">
+  <img src="logo.png" alt="XxSolarXx Logo" width="150" />
+</p>
+
+<!-- Profile Image Animations -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hello I am XxSolarXx</h1>
-<h3 align="center">I am a developer who makes discord bots, random projects and much more! 🌐</h3>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=XxSolarXxREAL&label=Profile%20views&color=0e75b6&style=flat" alt="XxSolarXxREAL" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="XxSolarXxREAL's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/XxSolarXxREAL"> -->
+<!-- Header -->
+<h1 align="center" style="font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2.5em; margin-bottom: 0.2em;">Hello, I am XxSolarXx</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-weight: normal;">A passionate developer creating Discord bots, projects, and more! 🌐</h3>
+
+<!-- Profile Views & Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XxSolarXxREAL&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Uncomment below to add language badges or followers -->
+  <!-- <img src="https://img.shields.io/github/followers/XxSolarXxREAL" alt="Followers" /> -->
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<!-- Tech Stack Icons -->
+<div align="center" style="margin-top: 1em;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+<!-- Additional Tools & Cloud Providers -->
+<div align="center" style="margin-top: 1em;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=restapi" alt="REST API" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Coding Animation -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+
+<!-- Spacer -->
 <br><br>
 
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<!-- Languages and Tools Sections -->
+<h3 style="margin-top: 2em;">Languages and Tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
+**Backend:**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,express" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,express" alt="Backend" />
   </a>
 </p>
 
-- Frontend
-<p align="left">
+**Frontend:**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js" />
+    <img src="https://skillicons.dev/icons?i=ts,js" alt="Frontend" />
   </a>
 </p>
 
-- Database
-<p align="left">
+**Database:**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database" />
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
+**Cloud & Hosting:**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=firebase,cloudflare" alt="Cloud" />
   </a>
 </p>
 
-- Tools
-<p align="left">
+**Tools:**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
   </a>
 </p>
 
-<br/>
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<h3 align="left">Trophy:</h3>
-  
+<!-- Trophy Section -->
+<h3 style="margin-top: 2em;">Trophies</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+  <img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Languages,Commits,PullRequests,Reviews" />
+</div>
+<div align="center" style="margin-top: 1em;">
+  <img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" />
 </div>
 
+<!-- GitHub Stats -->
+<h3 style="margin-top: 2em;">GitHub Stats</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
-</div>
-<br><br>
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![XxSolarXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxSolarXxREAL&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XxSolarXxREAL&theme=midnight-purple)](https://git.io/streak-stats) -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=XxSolarXxREAL&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
 </div>
 
-<br><br>
+<!-- Activity Graph (Optional) -->
+<!--
+<h3 style="margin-top: 2em;">Activity</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XxSolarXxREAL&custom_title=XxSolarXx's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+-->
 
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<!-- Achievements -->
+<h3 style="margin-top: 2em;">Achievements</h3>
+<p align="center">
+  <a href="https://holopin.me/XxSolarXxREAL" target="_blank">
+    <img src="https://holopin.me/XxSolarXxREAL" alt="Holopin Badges" />
+  </a>
+</p>
 
-<!-- <h3 align="left">Activity:</h3>
+<!-- Final Message -->
+<p align="center" style="font-size: 1.2em; margin-top: 2em;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <br>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+</p>
 
-![XxSolarXxREAL's Graph](https://github-readme-activity-graph.vercel.app/graph?username=XxSolarXxREAL&custom_title=XxSolarXx's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-
-<br>
-<p align="right" > Created with 🧡 by XxSolarXx</p>
+<!-- Footer -->
+<p align="right" style="margin-top: 2em;">Created with 🧡 by XxSolarXx</p>
