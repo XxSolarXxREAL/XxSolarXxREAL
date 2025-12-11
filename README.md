@@ -33,7 +33,7 @@
 ### Languages and Tools
 
 **Backend:**  
-<img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,py" />
 
 **Frontend:**  
 <img src="https://skillicons.dev/icons?i=ts,js" />
