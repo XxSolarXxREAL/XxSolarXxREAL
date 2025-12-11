@@ -76,10 +76,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />  
-  <em><b>I love connecting with different people</b> so feel free to add me on Discord: <b>ytz_solar</b></em>
+  <em><b>I love connecting with different people</b> so feel free to add me on Discord: <b>xxsolarxx09</b></em>
 </p>
 
 ---
 
-<p align="right">Created with 🧡 by XxSolarXx — credits to supun97, also why i got so many views?!</p>
+<p align="ceter">Created with 🧡 by XxSolarXx — credits to supun97</p>
