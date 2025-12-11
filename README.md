@@ -49,32 +49,6 @@
 
 ---
 
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Languages,Commits,PullRequests,Reviews" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XxSolarXxREAL&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" />
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxSolarXxREAL&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
-</p>
-
----
-
-### Achievements
-<p align="center">
-  <a href="https://holopin.me/XxSolarXxREAL" target="_blank">
-    <img src="https://holopin.me/XxSolarXxREAL" alt="Holopin Badges" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <em><b>I love connecting with different people</b> so feel free to add me on Discord: <b>xxsolarxx09</b></em>
 </p>
